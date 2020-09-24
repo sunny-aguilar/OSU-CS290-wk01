@@ -1,1 +1,3 @@
-# OSU-CS290-wk01
+# OSU CS290 Homework #1
+This repo 
+
