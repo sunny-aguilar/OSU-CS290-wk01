@@ -7,3 +7,4 @@ The HTML file is just a simple html file that contains standard HTML5.
 The other filed called "f" is a bash script that I wrote a while ago that I use to help me with git command shortcuts. I use it often in all of my other projects and keeps me sharp with the Bash language.
 
 ## Sandro Aguilar
+
